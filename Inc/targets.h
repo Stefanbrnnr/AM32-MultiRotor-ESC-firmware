@@ -2,7 +2,6 @@
 
 #ifndef USE_MAKE
 
-
 //GLOBAL
 //#define USE_ADC_INPUT
 //#define USE_ALKAS_DEBUG_LED
